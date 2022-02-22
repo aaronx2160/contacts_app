@@ -1,0 +1,8 @@
+.AddNew .form {
+  display: flex;
+  flex-direction: column;
+}
+.AddNew .form .form-item {
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=addNew.css.map */
